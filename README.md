@@ -6,6 +6,10 @@ To install and run the program use should install requiered python modules. You 
 ```shell
 pip install pycryptodome pyqt5 python-dotenv
 ```
+or 
+```shell
+pip install -r requirements.txt
+```
 Now you can run the app.
 
 Also you need to set your .env variables:
