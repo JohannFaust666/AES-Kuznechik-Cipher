@@ -8,8 +8,11 @@ pip install pycryptodome pyqt5 python-dotenv
 ```
 Now you can run the app.
 
-## Usage
+Also you need to set your .env variables:
+  1. ENCRYPTION_KEY - your secret key variable
+  2. BACKUP_DIR - path to your backup folder
 
+## Usage
 To run the app:
 ```shell
 python main.py
