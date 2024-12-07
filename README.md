@@ -10,4 +10,15 @@ Now you can run the app.
 
 ## Usage
 
+To run the app:
+```shell
+python main.py
+```
+Let's start. You'll see the main app window. You need to choose folder with your txt files you wanna ecrypt.
+![image](https://github.com/user-attachments/assets/179e2c0c-770c-4aaf-814b-7986182650e6)
 
+Then you should press "Encrypt" button. You'll see that your files are encrypted now and they're also in your backup folder.
+
+To dencrypt them using your key press "Decrypt".
+
+That's it. Your files are decrypted. 😊
