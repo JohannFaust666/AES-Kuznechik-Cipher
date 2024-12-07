@@ -5,5 +5,5 @@
 To install and run the program use should install requiered python modules. You can do this running:
 
 ```shell
-pip uninstall pycryptodome pyqt5 python-dotenv
+pip install pycryptodome pyqt5 python-dotenv
 ```
