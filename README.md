@@ -18,7 +18,7 @@ Also you need to set your .env variables:
 
 .env example:
 1. ENCRYPTION_KEY=0000000000000000000000000000000000000000000000000000000000000000
-2. Example: BACKUP_DIR=C:\Users\Alex\Desktop\Programs\Cipher\backups
+2. BACKUP_DIR=C:\Users\Alex\Desktop\Programs\Cipher\backups
 
 ## Usage
 To run the app:
